@@ -19,11 +19,12 @@ int main(void)
             fgets(str, 80, fp);
         }
 
+
         int a = 0;
        
 
 
-
+         
 
         fclose(fp);
     }
